@@ -1,5 +1,5 @@
 {
-    "name": "plumtreesystems/sylius-paysera-plugin",
+    "name": "smartpartner/sylius-paysera-plugin",
     "type": "sylius-plugin",
     "keywords": [
         "sylius",
@@ -7,7 +7,7 @@
         "paysera",
         "payum"
     ],
-    "description": "This is a sylius plugin that implements the plumtreesystems/payum-paysera-gateway",
+    "description": "This is a sylius plugin for paysera fork from plumtreesystems/payum-paysera-gateway",
     "homepage": "https://github.com/PlumTreeSystems/SyliusPayseraPlugin",
     "license": "MIT",
     "authors": [
